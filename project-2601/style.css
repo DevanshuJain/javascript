@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+    justify-content: center;
+}
+.color{
+    height: 10px;
+    width: 150px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.color-hover{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+}
+
+.red {
+    background-color: blue;
+}
+
+.cyan {
+    background-color: cyan;
+}
+
+.violet {
+    background-color: violet;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.pink {
+    background-color: pink;
+}
